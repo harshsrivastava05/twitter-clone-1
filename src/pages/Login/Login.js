@@ -37,10 +37,6 @@ const Login = () => {
 
     return (
         <>
-
-
-
-
             <div className="login-container">
                 <div className="image-container">
                     <img className=" image" src={twitterimg} alt="twitterImage" />
